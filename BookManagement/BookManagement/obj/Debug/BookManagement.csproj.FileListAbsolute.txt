@@ -1,0 +1,11 @@
+C:\Users\QCU\source\repos\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+C:\Users\QCU\source\repos\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\QCU\source\repos\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\QCU\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.AssemblyReference.cache
+C:\Users\QCU\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.AddBook.resources
+C:\Users\QCU\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.Book_Mangement.resources
+C:\Users\QCU\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.Properties.Resources.resources
+C:\Users\QCU\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.GenerateResource.cache
+C:\Users\QCU\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\QCU\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+C:\Users\QCU\source\repos\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
